@@ -32,7 +32,7 @@ export FORCENETCFGSTR=''                        # sometimes gateway and defroute
                                                 # GATE:10.211.55.1,STATICROUTE:default,DNS1:8.8.8.8,DNS2:1.1.1.1
 
 export autoDEBMIRROR0='https://gitee.com/minlearn/onekeydevdesk/raw/master'
-export autoDEBMIRROR1='https://github.com/minlearn/onekeydevdesk/raw/master'
+export autoDEBMIRROR1='https://github.com/dalaolala/onekeydevdesk/raw/master'
 export FORCEMIRROR=''                           # force apply a fixed mirror/targetddurl selection to force override autoselectdebmirror results based on -t -m args given
 # export autoIMGMIRROR1=''                      # currently we apply the same mirror for deb and targetimg
 export FORCEMIRRORIMGSIZE=''                    # force apply a fixed mirror/targetddimgsize to force checktarget results based on -s args given
